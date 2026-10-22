@@ -1,0 +1,36 @@
+# credentials and local environments
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+*credentials*.json
+*secret*.json
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+__pycache__/
+*.pyc
+node_modules/
+# original documents, archives, images, binaries and logs
+*.hwp
+*.hwpx
+*.doc
+*.docx
+*.pdf
+*.xlsx
+*.xls
+*.odt
+*.zip
+*.7z
+*.rar
+*.png
+*.jpg
+*.jpeg
+*.heic
+*.mp4
+*.mov
+*.log
